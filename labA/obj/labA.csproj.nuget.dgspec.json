@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/curtrick/code_401/Code401_Lab-02A/labA/labA.csproj": {}
+  },
+  "projects": {
+    "/home/curtrick/code_401/Code401_Lab-02A/labA/labA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/curtrick/code_401/Code401_Lab-02A/labA/labA.csproj",
+        "projectName": "labA",
+        "projectPath": "/home/curtrick/code_401/Code401_Lab-02A/labA/labA.csproj",
+        "packagesPath": "/home/curtrick/.nuget/packages/",
+        "outputPath": "/home/curtrick/code_401/Code401_Lab-02A/labA/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/curtrick/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/linuxbrew/.linuxbrew/Cellar/dotnet/6.0.109/libexec/sdk/6.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

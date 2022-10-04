@@ -1,0 +1,15 @@
+/home/curtrick/code_401/Code401_Lab-02A/labA/bin/Debug/net6.0/labA
+/home/curtrick/code_401/Code401_Lab-02A/labA/bin/Debug/net6.0/labA.deps.json
+/home/curtrick/code_401/Code401_Lab-02A/labA/bin/Debug/net6.0/labA.runtimeconfig.json
+/home/curtrick/code_401/Code401_Lab-02A/labA/bin/Debug/net6.0/labA.dll
+/home/curtrick/code_401/Code401_Lab-02A/labA/bin/Debug/net6.0/ref/labA.dll
+/home/curtrick/code_401/Code401_Lab-02A/labA/bin/Debug/net6.0/labA.pdb
+/home/curtrick/code_401/Code401_Lab-02A/labA/obj/Debug/net6.0/labA.csproj.AssemblyReference.cache
+/home/curtrick/code_401/Code401_Lab-02A/labA/obj/Debug/net6.0/labA.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/Code401_Lab-02A/labA/obj/Debug/net6.0/labA.AssemblyInfoInputs.cache
+/home/curtrick/code_401/Code401_Lab-02A/labA/obj/Debug/net6.0/labA.AssemblyInfo.cs
+/home/curtrick/code_401/Code401_Lab-02A/labA/obj/Debug/net6.0/labA.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/Code401_Lab-02A/labA/obj/Debug/net6.0/labA.dll
+/home/curtrick/code_401/Code401_Lab-02A/labA/obj/Debug/net6.0/ref/labA.dll
+/home/curtrick/code_401/Code401_Lab-02A/labA/obj/Debug/net6.0/labA.pdb
+/home/curtrick/code_401/Code401_Lab-02A/labA/obj/Debug/net6.0/labA.genruntimeconfig.cache
