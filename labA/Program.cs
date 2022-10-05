@@ -79,6 +79,8 @@ namespace labA
             {
                 sum += num;
             }
+            // Looked at storm's code to see thier ideas. Can add a way to end the game in the sum value is lower then a set value.
+            
             // if (sum < 20)
             // {
             //     throw new Exception($"Value of {sum} is too low.");
