@@ -79,10 +79,10 @@ namespace labA
             {
                 sum += num;
             }
-            if (sum < 20)
-            {
-                throw new Exception($"Value of {sum} is too low.");
-            }
+            // if (sum < 20)
+            // {
+            //     throw new Exception($"Value of {sum} is too low.");
+            // }
             return sum;
         }
         static int[] GetProduct(int[] userNumbers, int sum)
