@@ -42,11 +42,7 @@ namespace labA
                 //  get the product of the numbers the user inputs
                 int[] product = GetProduct(userNumbers, sum);
                 decimal[] quotient = GetQuotient(product[0]);
-                Console.WriteLine($@"Your array size is: {userNumbers.Length}
- 					The numbers in the array are: {String.Join(",", userNumbers)}
-  					The sum of the array is {sum}
-    				{sum} * {userNumbers[product[1] - 1]} = {product[0]}
-     				{product[0]} / {quotient[1]} = {quotient[0]}");
+                Console.WriteLine($"Your array size is: {userNumbers.Length}\nThe numbers in the array are: {String.Join(",", userNumbers)}\nThe sum of the array is {sum}\n{sum} * {userNumbers[product[1] - 1]} = {product[0]}\n{product[0]} / {quotient[1]} = {quotient[0]}");
 
             }
             catch (FormatException e)
@@ -80,7 +76,7 @@ namespace labA
                 sum += num;
             }
             // Looked at storm's code to see thier ideas. Can add a way to end the game in the sum value is lower then a set value.
-            
+
             // if (sum < 20)
             // {
             //     throw new Exception($"Value of {sum} is too low.");
